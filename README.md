@@ -29,6 +29,11 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
+<img width="387" alt="Screenshot 2024-02-27 at 2 39 44 AM" src="https://github.com/lazo433/CodePath-Wordle/assets/114626162/2069ebee-03df-4278-95ad-a16e4c2ddd4c">
+
+- Was only able to complete up to Objective 1
+
+
 
 ## Notes
 
